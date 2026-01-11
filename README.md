@@ -18,7 +18,6 @@ Aspiring Data Analyst fresher with hands-on experience in SQL, Python, MSExcel a
 
 ### Core Analytics Skills
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
 - Business Insight Generation
 
 ---
@@ -45,10 +44,7 @@ Aspiring Data Analyst fresher with hands-on experience in SQL, Python, MSExcel a
 ## 📊 What I Do
 Data Cleaning & Preparation
 - Transform raw, messy data into clean, structured, and analysis-ready datasets using Python, SQL, and Excel.
-
-Exploratory Data Analysis (EDA)
-- Analyze datasets to uncover patterns, trends, and anomalies using statistics and visualizations.
-
+  
 Dashboard Building
 - Create interactive and insightful dashboards to present data clearly and support data-driven decisions.
 
