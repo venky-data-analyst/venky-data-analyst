@@ -2,7 +2,7 @@
 
 ## 📊 Aspiring Data Analyst | Fresher
 
-Aspiring Data Analyst fresher with hands-on experience in SQL, Python, MSExcel and Power Bi. Completed the Deloitte Australia Data Analytics Job Simulation (December 2025), building Tableau dashboards and performing Excel-based analysis on structured datasets. Experienced in cleaning, analyzing, and visualizing datasets to extract insights and support data-driven decisions.
+Aspiring Data Analyst with a strong foundation in statistical analysis, data visualization, and database management. Proficient in SQL, Python, Excel, and Power BI, with hands-on experience gained through academic projects, internships, and virtual simulations. Experienced in data cleaning, exploratory analysis, and dashboard creation to support structured, data-driven decision-making.
 
 ---
 
